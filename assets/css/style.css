@@ -1,0 +1,146 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    background-color: #0f0f0f;
+    color: #9d70cd;  
+}
+.logo{
+    height: 2em;
+}
+
+
+.navbar.bg-success {
+    background-color: rgb(195, 195, 57) !important; /* Cambiar el valor de background-color al color deseado */
+  }
+
+
+h1{
+    text-align: center;
+    font-size: 3em;
+    font-weight: 400;
+    
+}
+
+header img{
+    width: 4%;
+    
+}
+
+  
+
+article {
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-weight: bold;
+   
+
+  }
+  
+  article p {
+    display: inline-block;
+    width: 30%;
+    margin-left: 15em;
+    margin-right: 10em;
+    font-size: 24px; /* Ajusta el tamaño de letra a tu preferencia */
+  }
+  
+  article img {
+    width: 25em;
+    height: 35em;
+    margin-left: 1em; /* Ajusta el margen izquierdo para acercar la imagen al texto */
+}
+
+    article p span {
+        color: rgb(179, 210, 55); ; /* Cambia el color del texto a rojo */
+    }
+
+
+section {
+    text-align: center;
+    background-color: #1e1a13;
+}
+
+
+section img {
+
+    width: 4%;
+}
+
+
+
+
+section h2 {
+    padding: 1em;
+    font-size: 3em;
+    font-weight: 400;
+
+}
+section div {
+    min-width: 10em;
+    font-size: xx-large;
+    display: inline-block;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+section i{
+    font-size: xx-large;
+}
+
+
+
+
+
+aside {
+    text-align: center; /* Centrar el contenido horizontalmente */
+  }
+  
+  figure {
+    display: inline-block; /* Mostrar en línea horizontalmente */
+    vertical-align: top; /* Alinear en la parte superior para alinear las imágenes */
+    margin-right: 10px; /* Espacio entre las imágenes */
+  }
+  
+  figcaption {
+    text-align: center; /* Centrar el texto debajo de las imágenes */
+    font-size: 14px; /* Tamaño de fuente del texto */
+    margin-top: 5px; /* Margen superior del texto */
+  }
+  
+
+
+
+
+aside img{
+    height: 15em;
+    margin-left: 2em;
+    margin-right: 2em;
+
+}
+
+.custom-carousel {
+    width: 50%; /* Ajusta el ancho del carrusel según tus necesidades */
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+
+footer{
+    background-color: #e1db27;
+    padding: 2em;
+    text-align: center;
+    font-size: 1.5em;
+}
+footer p{
+    display: inline-block;
+    font-size:medium;
+    font-weight: bold;
+
+
+}
+
+footer img {
+    width: 6%;
+
+}
